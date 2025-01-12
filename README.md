@@ -407,72 +407,74 @@ function CheckQuest()
             CFrameQuest = CFrame.new(5833.1147460938, 51.60498046875, -1103.0693359375)
             CFrameMon = CFrame.new(6616.41748046875, 441.7670593261719, 446.0469970703125)
         elseif MyLevel == 1625 or MyLevel <= 1649 then
-            Mon = "Female IVininder"
+            Mon = "Female ISla
+nder"
             NameQuest = "AmazonQuest2"
             LevelQuest = 1
-            NameMon = "Female IVininder"
+            NameMon = "Female ISlander"
             CFrameQuest = CFrame.new(5446.8793945313, 601.62945556641, 749.45672607422)
             CFrameMon = CFrame.new(4685.25830078125, 735.8078002929688, 815.3425903320312)
         elseif MyLevel == 1650 or MyLevel <= 1699 then 
-            Mon = "Giant IVininder"
+            Mon = "Giant ISla
+nder"
             NameQuest = "AmazonQuest2"
             LevelQuest = 2
-            NameMon = "Giant IVininder"
+            NameMon = "Giant ISlander"
             CFrameQuest = CFrame.new(5446.8793945313, 601.62945556641, 749.45672607422)
             CFrameMon = CFrame.new(4729.09423828125, 590.436767578125, -36.97627639770508)
         elseif MyLevel == 1700 or MyLevel <= 1724 then
             Mon = "Marine Commodore"
             LevelQuest = 1
-            NameQuest = "MarineTreeIVinind"
+            NameQuest = "MarineTreeISland"
             NameMon = "Marine Commodore"
             CFrameQuest = CFrame.new(2180.54126, 27.8156815, -6741.5498, -0.965929747, 0, 0.258804798, 0, 1, 0, -0.258804798, 0, -0.965929747)
             CFrameMon = CFrame.new(2286.0078125, 73.13391876220703, -7159.80908203125)
         elseif MyLevel == 1725 or MyLevel <= 1774 then
             Mon = "Marine Rear Admiral"
             NameMon = "Marine Rear Admiral"
-            NameQuest = "MarineTreeIVinind"
+            NameQuest = "MarineTreeISland"
             LevelQuest = 2
             CFrameQuest = CFrame.new(2179.98828125, 28.731239318848, -6740.0551757813)
             CFrameMon = CFrame.new(3656.773681640625, 160.52406311035156, -7001.5986328125)
         elseif MyLevel == 1775 or MyLevel <= 1799 then
             Mon = "Fishman Raider"
             LevelQuest = 1
-            NameQuest = "DeepForestIVinind3"
+            NameQuest = "DeepForestISland3"
             NameMon = "Fishman Raider"
             CFrameQuest = CFrame.new(-10581.6563, 330.872955, -8761.18652, -0.882952213, 0, 0.469463557, 0, 1, 0, -0.469463557, 0, -0.882952213)   
             CFrameMon = CFrame.new(-10407.5263671875, 331.76263427734375, -8368.5166015625)
         elseif MyLevel == 1800 or MyLevel <= 1824 then
             Mon = "Fishman Captain"
             LevelQuest = 2
-            NameQuest = "DeepForestIVinind3"
+            NameQuest = "DeepForestISland3"
             NameMon = "Fishman Captain"
             CFrameQuest = CFrame.new(-10581.6563, 330.872955, -8761.18652, -0.882952213, 0, 0.469463557, 0, 1, 0, -0.469463557, 0, -0.882952213)   
             CFrameMon = CFrame.new(-10994.701171875, 352.38140869140625, -9002.1103515625) 
         elseif MyLevel == 1825 or MyLevel <= 1849 then
             Mon = "Forest Pirate"
             LevelQuest = 1
-            NameQuest = "DeepForestIVinind"
+            NameQuest = "DeepForestIsland"
             NameMon = "Forest Pirate"
             CFrameQuest = CFrame.new(-13234.04, 331.488495, -7625.40137, 0.707134247, -0, -0.707079291, 0, 1, -0, 0.707079291, 0, 0.707134247)
             CFrameMon = CFrame.new(-13274.478515625, 332.3781433105469, -7769.58056640625)
         elseif MyLevel == 1850 or MyLevel <= 1899 then
             Mon = "Mythological Pirate"
             LevelQuest = 2
-            NameQuest = "DeepForestIVinind"
+            NameQuest = "DeepForestIsland"
             NameMon = "Mythological Pirate"
             CFrameQuest = CFrame.new(-13234.04, 331.488495, -7625.40137, 0.707134247, -0, -0.707079291, 0, 1, -0, 0.707079291, 0, 0.707134247)   
             CFrameMon = CFrame.new(-13680.607421875, 501.08154296875, -6991.189453125)
         elseif MyLevel == 1900 or MyLevel <= 1924 then
             Mon = "Jungle Pirate"
             LevelQuest = 1
-            NameQuest = "DeepForestIVinind2"
+            NameQuest = "DeepForestIsland2"
             NameMon = "Jungle Pirate"
             CFrameQuest = CFrame.new(-12680.3818, 389.971039, -9902.01953, -0.0871315002, 0, 0.996196866, 0, 1, 0, -0.996196866, 0, -0.0871315002)
             CFrameMon = CFrame.new(-12256.16015625, 331.73828125, -10485.8369140625)
         elseif MyLevel == 1925 or MyLevel <= 1974 then
             Mon = "Musketeer Pirate"
             LevelQuest = 2
-            NameQuest = "DeepForestIVinind2"
+            NameQuest = "DeepForestIsland2"
             NameMon = "Musketeer Pirate"
             CFrameQuest = CFrame.new(-12680.3818, 389.971039, -9902.01953, -0.0871315002, 0, 0.996196866, 0, 1, 0, -0.996196866, 0, -0.0871315002)
             CFrameMon = CFrame.new(-13457.904296875, 391.545654296875, -9859.177734375)
@@ -507,28 +509,28 @@ function CheckQuest()
         elseif MyLevel == 2075 or MyLevel <= 2099 then
             Mon = "Peanut Scout"
             LevelQuest = 1
-            NameQuest = "NutsIVinindQuest"
+            NameQuest = "NutsIslandQuest"
             NameMon = "Peanut Scout"
             CFrameQuest = CFrame.new(-2104.3908691406, 38.104167938232, -10194.21875, 0, 0, -1, 0, 1, 0, 1, 0, 0)
             CFrameMon = CFrame.new(-2143.241943359375, 47.72198486328125, -10029.9951171875)
         elseif MyLevel == 2100 or MyLevel <= 2124 then
             Mon = "Peanut President"
             LevelQuest = 2
-            NameQuest = "NutsIVinindQuest"
+            NameQuest = "NutsIslandQuest"
             NameMon = "Peanut President"
             CFrameQuest = CFrame.new(-2104.3908691406, 38.104167938232, -10194.21875, 0, 0, -1, 0, 1, 0, 1, 0, 0)
             CFrameMon = CFrame.new(-1859.35400390625, 38.10316848754883, -10422.4296875)
         elseif MyLevel == 2125 or MyLevel <= 2149 then
             Mon = "Ice Cream Chef"
             LevelQuest = 1
-            NameQuest = "IceCreamIVinindQuest"
+            NameQuest = "IceCreamIslandQuest"
             NameMon = "Ice Cream Chef"
             CFrameQuest = CFrame.new(-820.64825439453, 65.819526672363, -10965.795898438, 0, 0, -1, 0, 1, 0, 1, 0, 0)
             CFrameMon = CFrame.new(-872.24658203125, 65.81957244873047, -10919.95703125)
         elseif MyLevel == 2150 or MyLevel <= 2199 then
             Mon = "Ice Cream Commander"
             LevelQuest = 2
-            NameQuest = "IceCreamIVinindQuest"
+            NameQuest = "IceCreamIslandQuest"
             NameMon = "Ice Cream Commander"
             CFrameQuest = CFrame.new(-820.64825439453, 65.819526672363, -10965.795898438, 0, 0, -1, 0, 1, 0, 1, 0, 0)
             CFrameMon = CFrame.new(-558.06103515625, 112.04895782470703, -11290.7744140625)
@@ -610,10 +612,10 @@ function CheckQuest()
             CFrameQuest = CFrame.new(-16545.9355, 55.6863556, -173.230499)
             CFrameMon = CFrame.new(-16120.6035, 116.520554, -103.038849)
         elseif MyLevel == 2475 or MyLevel <= 2499 then
-            Mon = "IVinind Boy"
+            Mon = "Island Boy"
             LevelQuest = 2
             NameQuest = "TikiQuest1"
-            NameMon = "IVinind Boy"
+            NameMon = "Island Boy"
             CFrameQuest = CFrame.new(-16545.9355, 55.6863556, -173.230499)
             CFrameMon = CFrame.new(-16751.3125, 121.226219, -264.015015)
         elseif MyLevel == 2500 or MyLevel <= 2524 then
@@ -696,10 +698,10 @@ function Hop()
     Teleport()
 end       
 
-function UpdateIVinindESP() 
+function UpdateIslandESP() 
     for i,v in pairs(game:GetService("Workspace")["_WorldOrigin"].Locations:GetChildren()) do
         pcall(function()
-            if IVinindESP then 
+            if IslandESP then 
                 if v.Name ~= "Sea" then
                     if not v:FindFirstChild('NameEsp') then
                         local bill = Instance.new('BillboardGui',v)
@@ -989,10 +991,10 @@ for i,v in pairs(game.Workspace.BananaSpawner:GetChildren()) do
 end
 end
 
-function UpdateIVinindESP() 
+function UpdateIslandESP() 
     for i,v in pairs(game:GetService("Workspace")["_WorldOrigin"].Locations:GetChildren()) do
         pcall(function()
-            if IVinindESP then 
+            if IslandESP then 
                 if v.Name ~= "Sea" then
                     if not v:FindFirstChild('NameEsp') then
                         local bill = Instance.new('BillboardGui',v)
@@ -1416,11 +1418,11 @@ return math.floor(tonumber(n) + 0.5)
 end
 Number = math.random(1, 1000000)
 
-function UpdateIVinindMirageESP() 
+function UpdateIslandMirageESP() 
 for i,v in pairs(game:GetService("Workspace")["_WorldOrigin"].Locations:GetChildren()) do
     pcall(function()
-        if MirageIVinindESP then 
-            if v.Name == "Mirage IVinind" then
+        if MirageIslandESP then 
+            if v.Name == "Mirage Island" then
                 if not v:FindFirstChild('NameEsp') then
                     local bill = Instance.new('BillboardGui',v)
                     bill.Name = 'NameEsp'
@@ -1697,7 +1699,7 @@ spawn(function()
 while wait() do
     for i,v in pairs(game:GetService("Workspace")["_WorldOrigin"]:GetChildren()) do
         pcall(function()
-            if v.Name == ("CurvedRing") or v.Name == ("VinishHit") or v.Name == ("SwordVinish") or v.Name == ("VinishTail") or v.Name == ("Sounds") then
+            if v.Name == ("CurvedRing") or v.Name == ("slashHit") or v.Name == ("Swordslash") or v.Name == ("slashTail") or v.Name == ("Sounds") then
                 v:Destroy()
             end
         end)
@@ -1946,7 +1948,7 @@ task.spawn(function()
 
 spawn(function()
 game:GetService("RunService").Heartbeat:Connect(function()
-    if _G.AutoVampire or AutoFarmChest or _G.AutoAdvanceDungeon or _G.AutoDoughtBoss or _G.Auto_DungeonMobAura or _G.AutoFarmChest or _G.AutoFactory or _G.AutoFarmBossHallow or _G.AutoFarmSwanGlasses or _G.AutoLongSword or _G.AutoBlackSpikeycoat or _G.AutoElectricClaw or _G.AutoFarmGunMastery or _G.AutoHolyTorch or _G.AutoLawRaid or _G.AutoFarmBoss or _G.AutoTwinHooks or _G.AutoOpenSwanDoor or _G.AutoDragon_Trident or _G.AutoSaber or _G.NOCLIP or _G.AutoFarmFruitMastery or _G.AutoFarmGunMastery or _G.TeleportIVinind or _G.Auto_EvoRace or _G.AutoFarmAllMsBypassType or _G.AutoObservationv2 or _G.AutoMusketeerHat or _G.AutoEctoplasm or _G.AutoRengoku or _G.Auto_Rainbow_Haki or _G.AutoObservation or _G.AutoDarkDagger or _G.Safe_Mode or _G.MasteryFruit or _G.AutoBudySword or _G.AutoOderSword or _G.AutoBounty or _G.AutoAllBoss or _G.Auto_Bounty or _G.AutoSharkman or _G.Auto_Mastery_Fruit or _G.Auto_Mastery_Gun or _G.Auto_Dungeon or _G.Auto_Cavender or _G.Auto_Pole or _G.Auto_Kill_Ply or _G.Auto_Factory or _G.AutoSecondSea or _G.TeleportPly or _G.AutoBartilo or _G.Auto_DarkBoss or _G.GrabChest or _G.AutoFarmBounty or _G.Holy_Torch or _G.AutoFarm or _G.Clip or _G.AutoElitehunter or _G.AutoThirdSea or _G.Auto_Bone or _G.Autoheart or _G.Autodoughking or _G.AutoFarmMaterial or _G.AutoNevaSoulGuitar or _G.Auto_Dragon_Trident or _G.Autotushita or _G.d or _G.Autowaden or _G.Autogay or _G.Autopole or _G.Autosaw or _G.AutoObservationHakiV2 or _G.AutoFarmNearest or AutoFarmChest or _G.AutoCarvender or _G.AutoTwinHook or AutoMobAura or _G.Tweenfruit or _G.AutoKai or _G.TeleportNPC or _G.Leather or _G.Auto_Wing or _G.Umm or _G.Makori_gay or Radioactive or Fish or Gunpowder or Dragon_Scale or Cocoafarm or Scrap or MiniHee or _G.AutoFarmSeabaest or Auto_Cursed_Dual_Katana or _G.AutoFarmMob or _G.AutoMysticIVinind or _G.AutoFarmDungeon or _G.AutoRaidPirate or _G.AutoQuestRace or _G.TweenMGear or getgenv().AutoFarm or _G.AutoPlayerHunter or _G.AutoFactory or Grab_Chest or _G.Namfon or _G.AutoSwordMastery or _G.AutoSeaBest or _G.AutoKillTial or _G.Auto_Saber or _G.Position_Spawn or _G.Farmfast or _G.AutoRace or _G.RaidPirate then
+    if _G.AutoVampire or AutoFarmChest or _G.AutoAdvanceDungeon or _G.AutoDoughtBoss or _G.Auto_DungeonMobAura or _G.AutoFarmChest or _G.AutoFactory or _G.AutoFarmBossHallow or _G.AutoFarmSwanGlasses or _G.AutoLongSword or _G.AutoBlackSpikeycoat or _G.AutoElectricClaw or _G.AutoFarmGunMastery or _G.AutoHolyTorch or _G.AutoLawRaid or _G.AutoFarmBoss or _G.AutoTwinHooks or _G.AutoOpenSwanDoor or _G.AutoDragon_Trident or _G.AutoSaber or _G.NOCLIP or _G.AutoFarmFruitMastery or _G.AutoFarmGunMastery or _G.TeleportIsland or _G.Auto_EvoRace or _G.AutoFarmAllMsBypassType or _G.AutoObservationv2 or _G.AutoMusketeerHat or _G.AutoEctoplasm or _G.AutoRengoku or _G.Auto_Rainbow_Haki or _G.AutoObservation or _G.AutoDarkDagger or _G.Safe_Mode or _G.MasteryFruit or _G.AutoBudySword or _G.AutoOderSword or _G.AutoBounty or _G.AutoAllBoss or _G.Auto_Bounty or _G.AutoSharkman or _G.Auto_Mastery_Fruit or _G.Auto_Mastery_Gun or _G.Auto_Dungeon or _G.Auto_Cavender or _G.Auto_Pole or _G.Auto_Kill_Ply or _G.Auto_Factory or _G.AutoSecondSea or _G.TeleportPly or _G.AutoBartilo or _G.Auto_DarkBoss or _G.GrabChest or _G.AutoFarmBounty or _G.Holy_Torch or _G.AutoFarm or _G.Clip or _G.AutoElitehunter or _G.AutoThirdSea or _G.Auto_Bone or _G.Autoheart or _G.Autodoughking or _G.AutoFarmMaterial or _G.AutoNevaSoulGuitar or _G.Auto_Dragon_Trident or _G.Autotushita or _G.d or _G.Autowaden or _G.Autogay or _G.Autopole or _G.Autosaw or _G.AutoObservationHakiV2 or _G.AutoFarmNearest or AutoFarmChest or _G.AutoCarvender or _G.AutoTwinHook or AutoMobAura or _G.Tweenfruit or _G.AutoKai or _G.TeleportNPC or _G.Leather or _G.Auto_Wing or _G.Umm or _G.Makori_gay or Radioactive or Fish or Gunpowder or Dragon_Scale or Cocoafarm or Scrap or MiniHee or _G.AutoFarmSeabaest or Auto_Cursed_Dual_Katana or _G.AutoFarmMob or _G.AutoMysticIsland or _G.AutoFarmDungeon or _G.AutoRaidPirate or _G.AutoQuestRace or _G.TweenMGear or getgenv().AutoFarm or _G.AutoPlayerHunter or _G.AutoFactory or Grab_Chest or _G.Namfon or _G.AutoSwordMastery or _G.AutoSeaBest or _G.AutoKillTial or _G.Auto_Saber or _G.Position_Spawn or _G.Farmfast or _G.AutoRace or _G.RaidPirate then
         if not game:GetService("Workspace"):FindFirstChild("LOL") then
             local LOL = Instance.new("Part")
             LOL.Name = "LOL"
@@ -1968,7 +1970,7 @@ end)
 spawn(function()
     pcall(function()
         while wait() do
-            if _G.AutoVampire or AutoFarmChest or _G.AutoAdvanceDungeon or _G.AutoDoughtBoss or _G.Auto_DungeonMobAura or _G.AutoFarmChest or _G.AutoFactory or _G.AutoFarmBossHallow or _G.AutoFarmSwanGlasses or _G.AutoLongSword or _G.AutoBlackSpikeycoat or _G.AutoElectricClaw or _G.AutoFarmGunMastery or _G.AutoHolyTorch or _G.AutoLawRaid or _G.AutoFarmBoss or _G.AutoTwinHooks or _G.AutoOpenSwanDoor or _G.AutoDragon_Trident or _G.AutoSaber or _G.AutoFarmFruitMastery or _G.AutoFarmGunMastery or _G.TeleportIVinind or _G.Auto_EvoRace or _G.AutoFarmAllMsBypassType or _G.AutoObservationv2 or _G.AutoMusketeerHat or _G.AutoEctoplasm or _G.AutoRengoku or _G.Auto_Rainbow_Haki or _G.AutoObservation or _G.AutoDarkDagger or _G.Safe_Mode or _G.MasteryFruit or _G.AutoBudySword or _G.AutoOderSword or _G.AutoBounty or _G.AutoAllBoss or _G.Auto_Bounty or _G.AutoSharkman or _G.Auto_Mastery_Fruit or _G.Auto_Mastery_Gun or _G.Auto_Dungeon or _G.Auto_Cavender or _G.Auto_Pole or _G.Auto_Kill_Ply or _G.Auto_Factory or _G.AutoSecondSea or _G.TeleportPly or _G.AutoBartilo or _G.Auto_DarkBoss or _G.GrabChest or _G.AutoFarmBounty or _G.Holy_Torch or _G.AutoFarm or _G.Clip or FarmBoss or _G.AutoElitehunter or _G.AutoThirdSea or _G.Auto_Bone or _G.Autoheart or _G.Autodoughking or _G.AutoFarmMaterial or _G.AutoNevaSoulGuitar or _G.Auto_Dragon_Trident or _G.Autotushita or _G.d or _G.Autowaden or _G.Autogay or _G.Autopole or _G.Autosaw or _G.AutoObservationHakiV2 or _G.AutoFarmNearest or AutoFarmChest or _G.AutoCarvender or _G.AutoTwinHook or AutoMobAura or _G.Tweenfruit or _G.TeleportNPC or _G.Leather or _G.Auto_Wing or _G.Umm or _G.Makori_gay or Radioactive or Fish or Gunpowder or Dragon_Scale or Cocoafarm or Scrap or MiniHee or _G.AutoFarmSeabaest or Auto_Cursed_Dual_Katana or _G.AutoFarmMob or _G.AutoMysticIVinind or _G.AutoFarmDungeon or _G.AutoRaidPirate or _G.AutoQuestRace or _G.TweenMGear or getgenv().AutoFarm or _G.AutoPlayerHunter or _G.AutoFactory or Grab_Chest or _G.Namfon or _G.AutoSwordMastery or _G.Auto_Seabest or _G.AutoSeaBest or _G.AutoKillTial or _G.Auto_Saber or _G.Position_Spawn or _G.Farmfast or _G.AutoRace or _G.RaidPirate == true then
+            if _G.AutoVampire or AutoFarmChest or _G.AutoAdvanceDungeon or _G.AutoDoughtBoss or _G.Auto_DungeonMobAura or _G.AutoFarmChest or _G.AutoFactory or _G.AutoFarmBossHallow or _G.AutoFarmSwanGlasses or _G.AutoLongSword or _G.AutoBlackSpikeycoat or _G.AutoElectricClaw or _G.AutoFarmGunMastery or _G.AutoHolyTorch or _G.AutoLawRaid or _G.AutoFarmBoss or _G.AutoTwinHooks or _G.AutoOpenSwanDoor or _G.AutoDragon_Trident or _G.AutoSaber or _G.AutoFarmFruitMastery or _G.AutoFarmGunMastery or _G.TeleportIsland or _G.Auto_EvoRace or _G.AutoFarmAllMsBypassType or _G.AutoObservationv2 or _G.AutoMusketeerHat or _G.AutoEctoplasm or _G.AutoRengoku or _G.Auto_Rainbow_Haki or _G.AutoObservation or _G.AutoDarkDagger or _G.Safe_Mode or _G.MasteryFruit or _G.AutoBudySword or _G.AutoOderSword or _G.AutoBounty or _G.AutoAllBoss or _G.Auto_Bounty or _G.AutoSharkman or _G.Auto_Mastery_Fruit or _G.Auto_Mastery_Gun or _G.Auto_Dungeon or _G.Auto_Cavender or _G.Auto_Pole or _G.Auto_Kill_Ply or _G.Auto_Factory or _G.AutoSecondSea or _G.TeleportPly or _G.AutoBartilo or _G.Auto_DarkBoss or _G.GrabChest or _G.AutoFarmBounty or _G.Holy_Torch or _G.AutoFarm or _G.Clip or FarmBoss or _G.AutoElitehunter or _G.AutoThirdSea or _G.Auto_Bone or _G.Autoheart or _G.Autodoughking or _G.AutoFarmMaterial or _G.AutoNevaSoulGuitar or _G.Auto_Dragon_Trident or _G.Autotushita or _G.d or _G.Autowaden or _G.Autogay or _G.Autopole or _G.Autosaw or _G.AutoObservationHakiV2 or _G.AutoFarmNearest or AutoFarmChest or _G.AutoCarvender or _G.AutoTwinHook or AutoMobAura or _G.Tweenfruit or _G.TeleportNPC or _G.Leather or _G.Auto_Wing or _G.Umm or _G.Makori_gay or Radioactive or Fish or Gunpowder or Dragon_Scale or Cocoafarm or Scrap or MiniHee or _G.AutoFarmSeabaest or Auto_Cursed_Dual_Katana or _G.AutoFarmMob or _G.AutoMysticIsland or _G.AutoFarmDungeon or _G.AutoRaidPirate or _G.AutoQuestRace or _G.TweenMGear or getgenv().AutoFarm or _G.AutoPlayerHunter or _G.AutoFactory or Grab_Chest or _G.Namfon or _G.AutoSwordMastery or _G.Auto_Seabest or _G.AutoSeaBest or _G.AutoKillTial or _G.Auto_Saber or _G.Position_Spawn or _G.Farmfast or _G.AutoRace or _G.RaidPirate == true then
                 if not game:GetService("Players").LocalPlayer.Character.HumanoidRootPart:FindFirstChild("BodyClip") then
                     local Noclip = Instance.new("BodyVelocity")
                     Noclip.Name = "BodyClip"
@@ -1984,7 +1986,7 @@ end)
 spawn(function()
     pcall(function()
         game:GetService("RunService").Stepped:Connect(function()
-            if _G.AutoVampire or AutoFarmChest or _G.AutoAdvanceDungeon or _G.AutoDoughtBoss or _G.Auto_DungeonMobAura or _G.AutoFarmChest or _G.AutoFactory or _G.AutoFarmBossHallow or _G.AutoFarmSwanGlasses or _G.AutoLongSword or _G.AutoBlackSpikeycoat or _G.AutoElectricClaw or _G.AutoFarmGunMastery or _G.AutoHolyTorch or _G.AutoLawRaid or _G.AutoFarmBoss or _G.AutoTwinHooks or _G.AutoOpenSwanDoor or _G.AutoDragon_Trident or _G.AutoSaber or _G.NOCLIP or _G.AutoFarmFruitMastery or _G.AutoFarmGunMastery or _G.TeleportIVinind or _G.Auto_EvoRace or _G.AutoFarmAllMsBypassType or _G.AutoObservationv2 or _G.AutoMusketeerHat or _G.AutoEctoplasm or _G.AutoRengoku or _G.Auto_Rainbow_Haki or _G.AutoObservation or _G.AutoDarkDagger or _G.Safe_Mode or _G.MasteryFruit or _G.AutoBudySword or _G.AutoOderSword or _G.AutoBounty or _G.AutoAllBoss or _G.Auto_Bounty or _G.AutoSharkman or _G.Auto_Mastery_Fruit or _G.Auto_Mastery_Gun or _G.Auto_Dungeon or _G.Auto_Cavender or _G.Auto_Pole or _G.Auto_Kill_Ply or _G.Auto_Factory or _G.AutoSecondSea or _G.TeleportPly or _G.AutoBartilo or _G.Auto_DarkBoss or _G.GrabChest or _G.AutoFarmBounty or _G.Holy_Torch or _G.AutoFarm or _G.Clip or _G.AutoElitehunter or _G.AutoThirdSea or _G.Auto_Bone or _G.Autoheart or _G.Autodoughking or _G.AutoFarmMaterial or _G.AutoNevaSoulGuitar or _G.Auto_Dragon_Trident or _G.Autotushita or _G.Autowaden or _G.Autogay or _G.Autopole or _G.Autosaw or _G.AutoObservationHakiV2 or _G.AutoFarmNearest or _G.AutoCarvender or _G.AutoTwinHook or AutoMobAura or _G.Tweenfruit or _G.TeleportNPC or _G.AutoKai or _G.Leather or _G.Auto_Wing or _G.Umm or _G.Makori_gay or Radioactive or Fish or Gunpowder or Dragon_Scale or Cocoafarm or Scrap or MiniHee or _G.AutoFarmSeabaest or Auto_Cursed_Dual_Katana or _G.AutoFarmMob or _G.AutoMysticIVinind or _G.AutoFarmDungeon or _G.AutoRaidPirate or _G.AutoQuestRace or _G.TweenMGear or getgenv().AutoFarm or _G.AutoPlayerHunter or _G.AutoFactory or _G.Namfon or _G.AutoSwordMastery or _G.Auto_Seabest or _G.AutoSeaBest or _G.AutoKillTial or _G.Auto_Saber or _G.Position_Spawn or _G.TPB or _G.Farmfast or _G.AutoRace or _G.RaidPirate == true then
+            if _G.AutoVampire or AutoFarmChest or _G.AutoAdvanceDungeon or _G.AutoDoughtBoss or _G.Auto_DungeonMobAura or _G.AutoFarmChest or _G.AutoFactory or _G.AutoFarmBossHallow or _G.AutoFarmSwanGlasses or _G.AutoLongSword or _G.AutoBlackSpikeycoat or _G.AutoElectricClaw or _G.AutoFarmGunMastery or _G.AutoHolyTorch or _G.AutoLawRaid or _G.AutoFarmBoss or _G.AutoTwinHooks or _G.AutoOpenSwanDoor or _G.AutoDragon_Trident or _G.AutoSaber or _G.NOCLIP or _G.AutoFarmFruitMastery or _G.AutoFarmGunMastery or _G.TeleportIsland or _G.Auto_EvoRace or _G.AutoFarmAllMsBypassType or _G.AutoObservationv2 or _G.AutoMusketeerHat or _G.AutoEctoplasm or _G.AutoRengoku or _G.Auto_Rainbow_Haki or _G.AutoObservation or _G.AutoDarkDagger or _G.Safe_Mode or _G.MasteryFruit or _G.AutoBudySword or _G.AutoOderSword or _G.AutoBounty or _G.AutoAllBoss or _G.Auto_Bounty or _G.AutoSharkman or _G.Auto_Mastery_Fruit or _G.Auto_Mastery_Gun or _G.Auto_Dungeon or _G.Auto_Cavender or _G.Auto_Pole or _G.Auto_Kill_Ply or _G.Auto_Factory or _G.AutoSecondSea or _G.TeleportPly or _G.AutoBartilo or _G.Auto_DarkBoss or _G.GrabChest or _G.AutoFarmBounty or _G.Holy_Torch or _G.AutoFarm or _G.Clip or _G.AutoElitehunter or _G.AutoThirdSea or _G.Auto_Bone or _G.Autoheart or _G.Autodoughking or _G.AutoFarmMaterial or _G.AutoNevaSoulGuitar or _G.Auto_Dragon_Trident or _G.Autotushita or _G.Autowaden or _G.Autogay or _G.Autopole or _G.Autosaw or _G.AutoObservationHakiV2 or _G.AutoFarmNearest or _G.AutoCarvender or _G.AutoTwinHook or AutoMobAura or _G.Tweenfruit or _G.TeleportNPC or _G.AutoKai or _G.Leather or _G.Auto_Wing or _G.Umm or _G.Makori_gay or Radioactive or Fish or Gunpowder or Dragon_Scale or Cocoafarm or Scrap or MiniHee or _G.AutoFarmSeabaest or Auto_Cursed_Dual_Katana or _G.AutoFarmMob or _G.AutoMysticIsland or _G.AutoFarmDungeon or _G.AutoRaidPirate or _G.AutoQuestRace or _G.TweenMGear or getgenv().AutoFarm or _G.AutoPlayerHunter or _G.AutoFactory or _G.Namfon or _G.AutoSwordMastery or _G.Auto_Seabest or _G.AutoSeaBest or _G.AutoKillTial or _G.Auto_Saber or _G.Position_Spawn or _G.TPB or _G.Farmfast or _G.AutoRace or _G.RaidPirate == true then
                 for _, v in pairs(game:GetService("Players").LocalPlayer.Character:GetDescendants()) do
                     if v:IsA("BasePart") then
                         v.CanCollide = false    
@@ -2005,7 +2007,7 @@ end
 
 spawn(function()
     while wait() do
-        if _G.AutoDoughtBoss or _G.Auto_DungeonMobAura or _G.AutoFarmChest or _G.AutoFarmBossHallow or _G.AutoFactory or _G.AutoFarmSwanGlasses or _G.AutoLongSword or _G.AutoBlackSpikeycoat or _G.AutoElectricClaw or _G.AutoFarmGunMastery or _G.AutoHolyTorch or _G.AutoLawRaid or _G.AutoFarmBoss or _G.AutoTwinHooks or _G.AutoOpenSwanDoor or _G.AutoDragon_Trident or _G.AutoSaber or _G.NOCLIP or _G.AutoFarmFruitMastery or _G.AutoFarmGunMastery or _G.TeleportIVinind or _G.Auto_EvoRace or _G.AutoFarmAllMsBypassType or _G.AutoObservationv2 or _G.AutoMusketeerHat or _G.AutoEctoplasm or _G.AutoRengoku or _G.Auto_Rainbow_Haki or _G.AutoObservation or _G.AutoDarkDagger or _G.Safe_Mode or _G.MasteryFruit or _G.AutoBudySword or _G.AutoOderSword or _G.AutoAllBoss or _G.Auto_Bounty or _G.AutoSharkman or _G.Auto_Mastery_Fruit or _G.Auto_Mastery_Gun or _G.Auto_Dungeon or _G.Auto_Cavender or _G.Auto_Pole or _G.Auto_Kill_Ply or _G.Auto_Factory or _G.AutoSecondSea or _G.TeleportPly or _G.AutoBartilo or _G.Auto_DarkBoss or _G.AutoFarm or _G.Clip or _G.AutoElitehunter or _G.AutoThirdSea or _G.Auto_Bone or _G.Autoheart or _G.Autodoughking or _G.d or _G.Autowaden or _G.Autogay or _G.AutoObservationHakiV2 or _G.AutoFarmMaterial or _G.AutoFarmNearest or _G.AutoCarvender or _G.AutoTwinHook or AutoMobAura or _G.Leather or _G.Auto_Wing or _G.Umm or _G.Makori_gay or Radioactive or Fish or Gunpowder or Dragon_Scale or Cocoafarm or Scrap or MiniHee or _G.AutoFarmSeabaest or Auto_Cursed_Dual_Katana or _G.AutoFarmMob or _G.AutoRaidPirate or getgenv().AutoFarm or _G.AutoPlayerHunter or _G.AutoFactory or _G.AttackDummy or _G.AutoSwordMastery or _G.Auto_Seabest or _G.AutoSeaBest or _G.AutoKillTial or _G.Auto_Saber or _G.Farmfast or _G.RaidPirate == true then
+        if _G.AutoDoughtBoss or _G.Auto_DungeonMobAura or _G.AutoFarmChest or _G.AutoFarmBossHallow or _G.AutoFactory or _G.AutoFarmSwanGlasses or _G.AutoLongSword or _G.AutoBlackSpikeycoat or _G.AutoElectricClaw or _G.AutoFarmGunMastery or _G.AutoHolyTorch or _G.AutoLawRaid or _G.AutoFarmBoss or _G.AutoTwinHooks or _G.AutoOpenSwanDoor or _G.AutoDragon_Trident or _G.AutoSaber or _G.NOCLIP or _G.AutoFarmFruitMastery or _G.AutoFarmGunMastery or _G.TeleportIsland or _G.Auto_EvoRace or _G.AutoFarmAllMsBypassType or _G.AutoObservationv2 or _G.AutoMusketeerHat or _G.AutoEctoplasm or _G.AutoRengoku or _G.Auto_Rainbow_Haki or _G.AutoObservation or _G.AutoDarkDagger or _G.Safe_Mode or _G.MasteryFruit or _G.AutoBudySword or _G.AutoOderSword or _G.AutoAllBoss or _G.Auto_Bounty or _G.AutoSharkman or _G.Auto_Mastery_Fruit or _G.Auto_Mastery_Gun or _G.Auto_Dungeon or _G.Auto_Cavender or _G.Auto_Pole or _G.Auto_Kill_Ply or _G.Auto_Factory or _G.AutoSecondSea or _G.TeleportPly or _G.AutoBartilo or _G.Auto_DarkBoss or _G.AutoFarm or _G.Clip or _G.AutoElitehunter or _G.AutoThirdSea or _G.Auto_Bone or _G.Autoheart or _G.Autodoughking or _G.d or _G.Autowaden or _G.Autogay or _G.AutoObservationHakiV2 or _G.AutoFarmMaterial or _G.AutoFarmNearest or _G.AutoCarvender or _G.AutoTwinHook or AutoMobAura or _G.Leather or _G.Auto_Wing or _G.Umm or _G.Makori_gay or Radioactive or Fish or Gunpowder or Dragon_Scale or Cocoafarm or Scrap or MiniHee or _G.AutoFarmSeabaest or Auto_Cursed_Dual_Katana or _G.AutoFarmMob or _G.AutoRaidPirate or getgenv().AutoFarm or _G.AutoPlayerHunter or _G.AutoFactory or _G.AttackDummy or _G.AutoSwordMastery or _G.Auto_Seabest or _G.AutoSeaBest or _G.AutoKillTial or _G.Auto_Saber or _G.Farmfast or _G.RaidPirate == true then
             pcall(function()
                 game:GetService("ReplicatedStorage").Remotes.CommE:FireServer("Ken",true)
             end)
@@ -2160,8 +2162,8 @@ spawn(
             end
         end
     end
-	function IsMirageIVinind2()
-		if game:GetService("Workspace").Map:FindFirstChild("MysticIVinind") then
+	function IsMirageIsland2()
+		if game:GetService("Workspace").Map:FindFirstChild("MysticIsland") then
 			return true
 		else
 			return false
@@ -2239,8 +2241,8 @@ function TweenTempleLegit()
 		return cofullmoonkothangbeo
 	end
 	function getBlueGear()
-		if game.workspace.Map:FindFirstChild("MysticIVinind") then
-			for r, v in pairs(game.workspace.Map.MysticIVinind:GetChildren()) do
+		if game.workspace.Map:FindFirstChild("MysticIsland") then
+			for r, v in pairs(game.workspace.Map.MysticIsland:GetChildren()) do
 				if v:IsA("MeshPart") and v.MeshId == "rbxassetid://10153114969" then
 					return v
 				end
@@ -2248,10 +2250,10 @@ function TweenTempleLegit()
 		end
 	end
 	function getHighestPoint()
-		if not game.workspace.Map:FindFirstChild("MysticIVinind") then
+		if not game.workspace.Map:FindFirstChild("MysticIsland") then
 			return nil
 		end
-		for r, v in pairs(game:GetService("Workspace").Map.MysticIVinind:GetDescendants()) do
+		for r, v in pairs(game:GetService("Workspace").Map.MysticIsland:GetDescendants()) do
 			if v:IsA("MeshPart") then
 				if v.MeshId == "rbxassetid://6745037796" then
 					return v
@@ -3406,7 +3408,7 @@ if World1 then
     M:AddDropdown({
         Name = "Select Mobs",
         Default = "",
-        Options = {"Pirate Millionaire","Dragon Crew Warrior","Dragon Crew Archer","Female IVininder","Giant IVininder","Marine Commodore","Marine Rear Admiral","Fishman Raider","Fishman Captain","Forest Pirate","Mythological Pirate","Jungle Pirate","Musketeer Pirate","Reborn Skeleton","Living Zombie","Demonic Soul","Posessed Mummy", "Peanut Scout", "Peanut President", "Ice Cream Chef", "Ice Cream Commander", "Cookie Crafter", "Cake Guard", "Baking Staff", "Head Baker", "Cocoa Warrior", "Chocolate Bar Battler", "Sweet Thief", "Candy Rebel", "Candy Pirate", "Snow Demon"},
+        Options = {"Pirate Millionaire","Dragon Crew Warrior","Dragon Crew Archer","Female Islander","Giant Islander","Marine Commodore","Marine Rear Admiral","Fishman Raider","Fishman Captain","Forest Pirate","Mythological Pirate","Jungle Pirate","Musketeer Pirate","Reborn Skeleton","Living Zombie","Demonic Soul","Posessed Mummy", "Peanut Scout", "Peanut President", "Ice Cream Chef", "Ice Cream Commander", "Cookie Crafter", "Cake Guard", "Baking Staff", "Head Baker", "Cocoa Warrior", "Chocolate Bar Battler", "Sweet Thief", "Candy Rebel", "Candy Pirate", "Snow Demon"},
         Callback = function(Value)
             SelectMonster = Value
         end    
@@ -4242,7 +4244,7 @@ local Section = IQ:AddSection({
     })
 
 IQ:AddToggle({
-    Name = "Auto Summon and Find Mirrage IVinind",
+    Name = "Auto Summon and Find Mirrage Island",
     Default = false,
     Flag = "Auto Mirrage",
     Save = true,
@@ -4304,8 +4306,8 @@ IQ:AddToggle({
         for _,v in next, workspace.Boats.PirateBrigade:GetDescendants() do
             if v.Name:find("VehicleSeat") then
             game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = v.CFrame
-             if game:GetService("Workspace").Map:FindFirstChild("MysticIVinind") then
-                                   topos(game:GetService("Workspace").Map:FindFirstChild("MysticIVinind").HumanoidRootPart.CFrame * CFrame.new(0,500,-100))
+             if game:GetService("Workspace").Map:FindFirstChild("MysticIsland") then
+                                   topos(game:GetService("Workspace").Map:FindFirstChild("MysticIsland").HumanoidRootPart.CFrame * CFrame.new(0,500,-100))
            
             end
             end
@@ -4619,21 +4621,21 @@ spawn(function()
 end)
 
 E:AddToggle({
-    Name = "ESP IVinind",
+    Name = "ESP Island",
     Default = false,
-    Flag = "ESP IVinind",
+    Flag = "ESP Island",
     Save = true,
     Callback = function(Value)
-        IVinindESP = Value
-        while IVinindESP do wait()
-        UpdateIVinindESP() 
+        IslandESP = Value
+        while IslandESP do wait()
+        UpdateIslandESP() 
         end
     end    
 })
-function UpdateIVinindESP() 
+function UpdateIslandESP() 
     for i,v in pairs(game:GetService("Workspace")["_WorldOrigin"].Locations:GetChildren()) do
         pcall(function()
-            if IVinindESP then 
+            if IslandESP then 
                 if v.Name ~= "Sea" then
                     if not v:FindFirstChild('NameEsp') then
                         local bill = Instance.new('BillboardGui',v)
@@ -4718,7 +4720,7 @@ end
 
 local TimeRaid = RA:AddLabel("Wait For Dungeon")
 
-local checkiVinind = RA:AddLabel("IVinind : Not Raid")
+local checkisland = RA:AddLabel("Island : Not Raid")
 
 _G.SelectChip = selectraids or ""
     Raidslist = {}
@@ -4784,9 +4786,9 @@ RA:AddToggle({
 })
 
     RA:AddToggle({
-        Name = "Next IVinind",
+        Name = "Next Island",
         Default = false,
-        Flag = "Auto NextIVinind",
+        Flag = "Auto NextIsland",
         Save = true,
         Callback = function(Value)
             _G.Auto_Dungeon = Value
@@ -4840,13 +4842,13 @@ RA:AddToggle({
 })
 
 local Section = LC:AddSection({
-    Name = "Teleport IVinind"
+    Name = "Teleport Island"
 })
 
 
 if World1 then
 LC:AddDropdown({
-    Name = "Select IVinind",
+    Name = "Select Island",
     Default = "",
     Options = {"WindMill",
     "Marine",
@@ -4854,29 +4856,29 @@ LC:AddDropdown({
     "Jungle",
     "Pirate Village",
     "Desert",
-    "Snow IVinind",
+    "Snow Island",
     "MarineFord",
     "Colosseum",
-    "Sky IVinind 1",
-    "Sky IVinind 2",
-    "Sky IVinind 3",
+    "Sky Island 1",
+    "Sky Island 2",
+    "Sky Island 3",
     "Prison",
     "Magma Village",
-    "Under Water IVinind",
+    "Under Water Island",
     "Fountain City",
     "Shank Room",
-    "Mob IVinind",},
-    Flag = "Select IVinind",
+    "Mob Island",},
+    Flag = "Select Island",
     Save = true,
     Callback = function(Value)
-        _G.SelectIVinind = Value
+        _G.SelectIsland = Value
     end    
 })
 end
 
 if World2 then
 LC:AddDropdown({
-    Name = "Select IVinind",
+    Name = "Select Island",
     Default = "",
     Options = {"The Cafe",
     "Frist Spot",
@@ -4886,158 +4888,158 @@ LC:AddDropdown({
     "Green Zone",
     "Factory",
     "Colossuim",
-    "Zombie IVinind",
+    "Zombie Island",
     "Two Snow Mountain",
     "Punk Hazard",
     "Cursed Ship",
     "Ice Castle",
-    "Forgotten IVinind",
-    "Ussop IVinind",
-    "Mini Sky IVinind"},
-    Flag = "Select IVinind",
+    "Forgotten Island",
+    "Ussop Island",
+    "Mini Sky Island"},
+    Flag = "Select Island",
     Save = true,
     Callback = function(Value)
-        _G.SelectIVinind = Value
+        _G.SelectIsland = Value
     end    
 })
 end
 
 if World3 then
 LC:AddDropdown({
-    Name = "Select IVinind",
+    Name = "Select Island",
     Default = "",
     Options = {"Mansion",
     "Port Town",
     "Great Tree",
     "Castle On The Sea",
     "MiniSky", 
-    "Hydra IVinind",
+    "Hydra Island",
     "Floating Turtle",
     "Haunted Castle",
-    "Ice Cream IVinind",
-    "Peanut IVinind",
-    "Cake IVinind",
-    "Cocoa IVinind",
+    "Ice Cream Island",
+    "Peanut Island",
+    "Cake Island",
+    "Cocoa Island",
     "Tiki Outpost New",
-    "Candy IVinind New⛄"},
-    Flag = "Select IVinind",
+    "Candy Island New⛄"},
+    Flag = "Select Island",
     Save = true,
     Callback = function(Value)
-        _G.SelectIVinind = Value
+        _G.SelectIsland = Value
     end    
 })
 end
 
 LC:AddToggle({
-    Name = "Teleport To IVinind",
+    Name = "Teleport To Island",
     Default = false,
     Callback = function(Value)
-        _G.TeleportIVinind = Value
-        if _G.TeleportIVinind == true then
+        _G.TeleportIsland = Value
+        if _G.TeleportIsland == true then
             repeat wait()
-                if _G.SelectIVinind == "WindMill" then
+                if _G.SelectIsland == "WindMill" then
                     topos(CFrame.new(979.79895019531, 16.516613006592, 1429.0466308594))
-                elseif _G.SelectIVinind == "Marine" then
+                elseif _G.SelectIsland == "Marine" then
                     topos(CFrame.new(-2566.4296875, 6.8556680679321, 2045.2561035156))
-                elseif _G.SelectIVinind == "Middle Town" then
+                elseif _G.SelectIsland == "Middle Town" then
                     topos(CFrame.new(-690.33081054688, 15.09425163269, 1582.2380371094))
-                elseif _G.SelectIVinind == "Jungle" then
+                elseif _G.SelectIsland == "Jungle" then
                     topos(CFrame.new(-1612.7957763672, 36.852081298828, 149.12843322754))
-                elseif _G.SelectIVinind == "Pirate Village" then
+                elseif _G.SelectIsland == "Pirate Village" then
                     topos(CFrame.new(-1181.3093261719, 4.7514905929565, 3803.5456542969))
-                elseif _G.SelectIVinind == "Desert" then
+                elseif _G.SelectIsland == "Desert" then
                     topos(CFrame.new(944.15789794922, 20.919729232788, 4373.3002929688))
-                elseif _G.SelectIVinind == "Snow IVinind" then
+                elseif _G.SelectIsland == "Snow Island" then
                     topos(CFrame.new(1347.8067626953, 104.66806030273, -1319.7370605469))
-                elseif _G.SelectIVinind == "MarineFord" then
+                elseif _G.SelectIsland == "MarineFord" then
                     topos(CFrame.new(-4914.8212890625, 50.963626861572, 4281.0278320313))
-                elseif _G.SelectIVinind == "Colosseum" then
+                elseif _G.SelectIsland == "Colosseum" then
                     topos( CFrame.new(-1427.6203613281, 7.2881078720093, -2792.7722167969))
-                elseif _G.SelectIVinind == "Sky IVinind 1" then
+                elseif _G.SelectIsland == "Sky Island 1" then
                     topos(CFrame.new(-4869.1025390625, 733.46051025391, -2667.0180664063))
-                elseif _G.SelectIVinind == "Sky IVinind 2" then  
+                elseif _G.SelectIsland == "Sky Island 2" then  
                     game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("requestEntrance",Vector3.new(-4607.82275, 872.54248, -1667.55688))
-                elseif _G.SelectIVinind == "Sky IVinind 3" then
+                elseif _G.SelectIsland == "Sky Island 3" then
                     game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("requestEntrance",Vector3.new(-7894.6176757813, 5547.1416015625, -380.29119873047))
-                elseif _G.SelectIVinind == "Prison" then
+                elseif _G.SelectIsland == "Prison" then
                     topos( CFrame.new(4875.330078125, 5.6519818305969, 734.85021972656))
-                elseif _G.SelectIVinind == "Magma Village" then
+                elseif _G.SelectIsland == "Magma Village" then
                     topos(CFrame.new(-5247.7163085938, 12.883934020996, 8504.96875))
-                elseif _G.SelectIVinind == "Under Water IVinind" then
+                elseif _G.SelectIsland == "Under Water Island" then
                     game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("requestEntrance",Vector3.new(61163.8515625, 11.6796875, 1819.7841796875))
-                elseif _G.SelectIVinind == "Fountain City" then
+                elseif _G.SelectIsland == "Fountain City" then
                     topos(CFrame.new(5127.1284179688, 59.501365661621, 4105.4458007813))
-                elseif _G.SelectIVinind == "Shank Room" then
+                elseif _G.SelectIsland == "Shank Room" then
                     topos(CFrame.new(-1442.16553, 29.8788261, -28.3547478))
-                elseif _G.SelectIVinind == "Mob IVinind" then
+                elseif _G.SelectIsland == "Mob Island" then
                     topos(CFrame.new(-2850.20068, 7.39224768, 5354.99268))
-                elseif _G.SelectIVinind == "The Cafe" then
+                elseif _G.SelectIsland == "The Cafe" then
                     topos(CFrame.new(-380.47927856445, 77.220390319824, 255.82550048828))
-                elseif _G.SelectIVinind == "Frist Spot" then
+                elseif _G.SelectIsland == "Frist Spot" then
                     topos(CFrame.new(-11.311455726624, 29.276733398438, 2771.5224609375))
-                elseif _G.SelectIVinind == "Dark Area" then
+                elseif _G.SelectIsland == "Dark Area" then
                     topos(CFrame.new(3780.0302734375, 22.652164459229, -3498.5859375))
-                elseif _G.SelectIVinind == "Flamingo Mansion" then
+                elseif _G.SelectIsland == "Flamingo Mansion" then
                     topos(CFrame.new(-483.73370361328, 332.0383605957, 595.32708740234))
-                elseif _G.SelectIVinind == "Flamingo Room" then
+                elseif _G.SelectIsland == "Flamingo Room" then
                     topos(CFrame.new(2284.4140625, 15.152037620544, 875.72534179688))
-                elseif _G.SelectIVinind == "Green Zone" then
+                elseif _G.SelectIsland == "Green Zone" then
                     topos( CFrame.new(-2448.5300292969, 73.016105651855, -3210.6306152344))
-                elseif _G.SelectIVinind == "Factory" then
+                elseif _G.SelectIsland == "Factory" then
                     topos(CFrame.new(424.12698364258, 211.16171264648, -427.54049682617))
-                elseif _G.SelectIVinind == "Colossuim" then
+                elseif _G.SelectIsland == "Colossuim" then
                     topos( CFrame.new(-1503.6224365234, 219.7956237793, 1369.3101806641))
-                elseif _G.SelectIVinind == "Zombie IVinind" then
+                elseif _G.SelectIsland == "Zombie Island" then
                     topos(CFrame.new(-5622.033203125, 492.19604492188, -781.78552246094))
-                elseif _G.SelectIVinind == "Two Snow Mountain" then
+                elseif _G.SelectIsland == "Two Snow Mountain" then
                     topos(CFrame.new(753.14288330078, 408.23559570313, -5274.6147460938))
-                elseif _G.SelectIVinind == "Punk Hazard" then
+                elseif _G.SelectIsland == "Punk Hazard" then
                     topos(CFrame.new(-6127.654296875, 15.951762199402, -5040.2861328125))
-                elseif _G.SelectIVinind == "Cursed Ship" then
+                elseif _G.SelectIsland == "Cursed Ship" then
                     topos(CFrame.new(923.40197753906, 125.05712890625, 32885.875))
-                elseif _G.SelectIVinind == "Ice Castle" then
+                elseif _G.SelectIsland == "Ice Castle" then
                     topos(CFrame.new(6148.4116210938, 294.38687133789, -6741.1166992188))
-                elseif _G.SelectIVinind == "Forgotten IVinind" then
+                elseif _G.SelectIsland == "Forgotten Island" then
                     topos(CFrame.new(-3032.7641601563, 317.89672851563, -10075.373046875))
-                elseif _G.SelectIVinind == "Ussop IVinind" then
+                elseif _G.SelectIsland == "Ussop Island" then
                     topos(CFrame.new(4816.8618164063, 8.4599885940552, 2863.8195800781))
-                elseif _G.SelectIVinind == "Mini Sky IVinind" then
+                elseif _G.SelectIsland == "Mini Sky Island" then
                     topos(CFrame.new(-288.74060058594, 49326.31640625, -35248.59375))
-                elseif _G.SelectIVinind == "Great Tree" then
+                elseif _G.SelectIsland == "Great Tree" then
                     topos(CFrame.new(2681.2736816406, 1682.8092041016, -7190.9853515625))
-                elseif _G.SelectIVinind == "Castle On The Sea" then
+                elseif _G.SelectIsland == "Castle On The Sea" then
                     game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("requestEntrance",Vector3.new(-5071.82324, 314.858734, -3150.69922, -0.392243683, -1.68831065e-08, -0.919861317, 2.14809548e-09, 1, -1.9269951e-08, 0.919861317, -9.53446655e-09, -0.392243683))
-                elseif _G.SelectIVinind == "MiniSky" then
+                elseif _G.SelectIsland == "MiniSky" then
                     topos(CFrame.new(-260.65557861328, 49325.8046875, -35253.5703125))
-                elseif _G.SelectIVinind == "Port Town" then
+                elseif _G.SelectIsland == "Port Town" then
                     topos(CFrame.new(-290.7376708984375, 6.729952812194824, 5343.5537109375))
-                elseif _G.SelectIVinind == "Hydra IVinind" then
+                elseif _G.SelectIsland == "Hydra Island" then
                     topos(CFrame.new(5228.8842773438, 604.23400878906, 345.0400390625))
-                elseif _G.SelectIVinind == "Floating Turtle" then
+                elseif _G.SelectIsland == "Floating Turtle" then
                     topos(CFrame.new(-13274.528320313, 531.82073974609, -7579.22265625))
-                elseif _G.SelectIVinind == "Mansion" then
+                elseif _G.SelectIsland == "Mansion" then
                     game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("requestEntrance",Vector3.new(-12471.169921875, 374.94024658203, -7551.677734375))
-                elseif _G.SelectIVinind == "Haunted Castle" then
+                elseif _G.SelectIsland == "Haunted Castle" then
                     topos(CFrame.new(-9515.3720703125, 164.00624084473, 5786.0610351562))
-                elseif _G.SelectIVinind == "Ice Cream IVinind" then
+                elseif _G.SelectIsland == "Ice Cream Island" then
                     topos(CFrame.new(-902.56817626953, 79.93204498291, -10988.84765625))
-                elseif _G.SelectIVinind == "Peanut IVinind" then
+                elseif _G.SelectIsland == "Peanut Island" then
                     topos(CFrame.new(-2062.7475585938, 50.473892211914, -10232.568359375))
-                elseif _G.SelectIVinind == "Cake IVinind" then
+                elseif _G.SelectIsland == "Cake Island" then
                     topos(CFrame.new(-1884.7747802734375, 19.327526092529297, -11666.8974609375))
-                elseif _G.SelectIVinind == "Cocoa IVinind" then
+                elseif _G.SelectIsland == "Cocoa Island" then
                     topos(CFrame.new(87.94276428222656, 73.55451202392578, -12319.46484375))
-                elseif _G.SelectIVinind == "Candy IVinind New⛄" then
+                elseif _G.SelectIsland == "Candy Island New⛄" then
                     topos(CFrame.new(-1014.4241943359375, 149.11068725585938, -14555.962890625))
-                elseif _G.SelectIVinind == "Tiki Outpost New" then
+                elseif _G.SelectIsland == "Tiki Outpost New" then
                     topos(CFrame.new(-16101.1885, 12.8422165, 380.942291, 0.194113985, 1.39194061e-08, -0.980978966, -9.82904691e-09, 1, 1.22443504e-08, 0.980978966, 7.26528837e-09, 0.194113985))
             else
-                _G.TeleportIVinind = false
-                StopTween(_G.TeleportIVinind)
+                _G.TeleportIsland = false
+                StopTween(_G.TeleportIsland)
             end
-            until not _G.TeleportIVinind
+            until not _G.TeleportIsland
         end
-        StopTween(_G.TeleportIVinind)
+        StopTween(_G.TeleportIsland)
     end    
 })
 
@@ -5255,13 +5257,13 @@ LC:AddButton({
 })
 
 LC:AddToggle({
-    Name = "Teleport To Mirage IVinind",
+    Name = "Teleport To Mirage Island",
     Default = false,
     Flag = "Teleport to Mirage",
     Save = true,
     Callback = function(Value)
-        _G.AutoMysticIVinind = Value
-        StopTween(_G.AutoMysticIVinind)
+        _G.AutoMysticIsland = Value
+        StopTween(_G.AutoMysticIsland)
     end    
 })
 
@@ -5445,7 +5447,7 @@ local Elite_Hunter_Status = SV:AddLabel("Only Third Sea")
         spawn(function()
             pcall(function()
                 while wait() do
-        if game.Workspace._WorldOrigin.Locations:FindFirstChild('Mirage IVinind') then
+        if game.Workspace._WorldOrigin.Locations:FindFirstChild('Mirage Island') then
         Mirragecheck:Set('Mirrage: ✅')
         else
           Mirragecheck:Set('Mirrage: ❌ ' )end
@@ -7938,8 +7940,8 @@ spawn(function()
                 spawn(function()
                     pcall(function()
                         while wait() do
-                if game.Workspace._WorldOrigin.Locations:FindFirstChild('IVinind 1') then
-                checkiVinind:Set(' IVinind : 1')
+                if game.Workspace._WorldOrigin.Locations:FindFirstChild('Island 1') then
+                checkisland:Set(' Island : 1')
                         end
                     end
                     end)
@@ -7948,8 +7950,8 @@ spawn(function()
                 spawn(function()
                     pcall(function()
                         while wait() do
-                if game.Workspace._WorldOrigin.Locations:FindFirstChild('IVinind 2') then
-                checkiVinind:Set('IVinind : 2')
+                if game.Workspace._WorldOrigin.Locations:FindFirstChild('Island 2') then
+                checkisland:Set('Island : 2')
                         end
                     end
                     end)
@@ -7958,8 +7960,8 @@ spawn(function()
                 spawn(function()
                     pcall(function()
                         while wait() do
-                if game.Workspace._WorldOrigin.Locations:FindFirstChild('IVinind 3') then
-                checkiVinind:Set('IVinind : 3')
+                if game.Workspace._WorldOrigin.Locations:FindFirstChild('Island 3') then
+                checkisland:Set('Island : 3')
                         end
                     end
                     end)
@@ -7968,8 +7970,8 @@ spawn(function()
                 spawn(function()
                     pcall(function()
                         while wait() do
-                if game.Workspace._WorldOrigin.Locations:FindFirstChild('IVinind 4') then
-                checkiVinind:Set('IVinind : 4')
+                if game.Workspace._WorldOrigin.Locations:FindFirstChild('Island 4') then
+                checkisland:Set('Island : 4')
                 end
                 end
                     end)
@@ -7978,8 +7980,8 @@ spawn(function()
                 spawn(function()
                     pcall(function()
                         while wait() do
-                if game.Workspace._WorldOrigin.Locations:FindFirstChild('IVinind 5') then
-                checkiVinind:Set('IVinind : 5')
+                if game.Workspace._WorldOrigin.Locations:FindFirstChild('Island 5') then
+                checkisland:Set('Island : 5')
                         end
                     end
                     end)
@@ -8002,7 +8004,7 @@ spawn(function()
                         while wait() do
                             if _G.AutoBuyChip then
                                 if not game:GetService("Players").LocalPlayer.Backpack:FindFirstChild("Special Microchip") or not game:GetService("Players").LocalPlayer.Character:FindFirstChild("Special Microchip") then
-                                    if not game:GetService("Workspace")["_WorldOrigin"].Locations:FindFirstChild("IVinind 1") then
+                                    if not game:GetService("Workspace")["_WorldOrigin"].Locations:FindFirstChild("Island 1") then
                                         game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("RaidsNpc", "Select", _G.SelectChip)
                                     end
                                 end
@@ -8016,9 +8018,9 @@ spawn(function()
                         pcall(function()
                             if _G.Auto_StartRaid then
                                 if game:GetService("Players")["LocalPlayer"].PlayerGui.Main.Timer.Visible == false then
-                                    if not game:GetService("Workspace")["_WorldOrigin"].Locations:FindFirstChild("IVinind 1") and game:GetService("Players").LocalPlayer.Backpack:FindFirstChild("Special Microchip") or game:GetService("Players").LocalPlayer.Character:FindFirstChild("Special Microchip") then
+                                    if not game:GetService("Workspace")["_WorldOrigin"].Locations:FindFirstChild("Island 1") and game:GetService("Players").LocalPlayer.Backpack:FindFirstChild("Special Microchip") or game:GetService("Players").LocalPlayer.Character:FindFirstChild("Special Microchip") then
                                         if World2 then
-                                            fireclickdetector(game:GetService("Workspace").Map.CircleIVinind.RaidSummon2.Button.Main.ClickDetector)
+                                            fireclickdetector(game:GetService("Workspace").Map.CircleIsland.RaidSummon2.Button.Main.ClickDetector)
                                         elseif World3 then
                                             fireclickdetector(game:GetService("Workspace").Map["Boat Castle"].RaidSummon2.Button.Main.ClickDetector)
                                         end
@@ -8052,16 +8054,16 @@ spawn(function()
                             while wait() do
                                 if _G.Auto_Dungeon then
                                     if game:GetService("Players")["LocalPlayer"].PlayerGui.Main.Timer.Visible == true then
-                                        if game:GetService("Workspace")["_WorldOrigin"].Locations:FindFirstChild("IVinind 5") then
-                                            topos(game:GetService("Workspace")["_WorldOrigin"].Locations:FindFirstChild("IVinind 5").CFrame*RaidPos)
-                                        elseif game:GetService("Workspace")["_WorldOrigin"].Locations:FindFirstChild("IVinind 4") then
-                                            topos(game:GetService("Workspace")["_WorldOrigin"].Locations:FindFirstChild("IVinind 4").CFrame*RaidPos)
-                                        elseif game:GetService("Workspace")["_WorldOrigin"].Locations:FindFirstChild("IVinind 3") then
-                                            topos(game:GetService("Workspace")["_WorldOrigin"].Locations:FindFirstChild("IVinind 3").CFrame*RaidPos)
-                                        elseif game:GetService("Workspace")["_WorldOrigin"].Locations:FindFirstChild("IVinind 2") then
-                                            topos(game:GetService("Workspace")["_WorldOrigin"].Locations:FindFirstChild("IVinind 2").CFrame*RaidPos)
-                                        elseif game:GetService("Workspace")["_WorldOrigin"].Locations:FindFirstChild("IVinind 1") then
-                                            topos(game:GetService("Workspace")["_WorldOrigin"].Locations:FindFirstChild("IVinind 1").CFrame*RaidPos)
+                                        if game:GetService("Workspace")["_WorldOrigin"].Locations:FindFirstChild("Island 5") then
+                                            topos(game:GetService("Workspace")["_WorldOrigin"].Locations:FindFirstChild("Island 5").CFrame*RaidPos)
+                                        elseif game:GetService("Workspace")["_WorldOrigin"].Locations:FindFirstChild("Island 4") then
+                                            topos(game:GetService("Workspace")["_WorldOrigin"].Locations:FindFirstChild("Island 4").CFrame*RaidPos)
+                                        elseif game:GetService("Workspace")["_WorldOrigin"].Locations:FindFirstChild("Island 3") then
+                                            topos(game:GetService("Workspace")["_WorldOrigin"].Locations:FindFirstChild("Island 3").CFrame*RaidPos)
+                                        elseif game:GetService("Workspace")["_WorldOrigin"].Locations:FindFirstChild("Island 2") then
+                                            topos(game:GetService("Workspace")["_WorldOrigin"].Locations:FindFirstChild("Island 2").CFrame*RaidPos)
+                                        elseif game:GetService("Workspace")["_WorldOrigin"].Locations:FindFirstChild("Island 1") then
+                                            topos(game:GetService("Workspace")["_WorldOrigin"].Locations:FindFirstChild("Island 1").CFrame*RaidPos)
                                         end
                                     end
                                 end
@@ -8137,7 +8139,7 @@ spawn(function()
                         if _G.Auto_Start_Law_Dungeon then
                             pcall(function()
                                 if game:GetService("Players").LocalPlayer.Character:FindFirstChild("Microchip") or game:GetService("Players").LocalPlayer.Backpack:FindFirstChild("Microchip") then
-                                    fireclickdetector(game:GetService("Workspace").Map.CircleIVinind.RaidSummon.Button.Main.ClickDetector)
+                                    fireclickdetector(game:GetService("Workspace").Map.CircleIsland.RaidSummon.Button.Main.ClickDetector)
                                 end
                             end)
                         end
@@ -8171,11 +8173,11 @@ spawn(function()
                 spawn(function()
                     pcall(function()
                         while wait() do
-                            if _G.AutoMysticIVinind then
+                            if _G.AutoMysticIsland then
                                     repeat
                                         wait()
-                                    until game:GetService("Workspace").Map:FindFirstChild("MysticIVinind")
-                                    if game:GetService("Workspace").Map:FindFirstChild("MysticIVinind") then
+                                    until game:GetService("Workspace").Map:FindFirstChild("MysticIsland")
+                                    if game:GetService("Workspace").Map:FindFirstChild("MysticIsland") then
                                         AllNPCS = getnilinstances()
                                         for r, v in pairs(game:GetService("Workspace").NPCs:GetChildren()) do
                                             table.insert(AllNPCS, v)
@@ -8207,8 +8209,8 @@ spawn(function()
     pcall(function()
         while wait() do
             if _G.TweenMGear then
-                if game:GetService("Workspace").Map:FindFirstChild("MysticIVinind") then
-                    for i,v in pairs(game:GetService("Workspace").Map.MysticIVinind:GetChildren()) do 
+                if game:GetService("Workspace").Map:FindFirstChild("MysticIsland") then
+                    for i,v in pairs(game:GetService("Workspace").Map.MysticIsland:GetChildren()) do 
                         if v:IsA("MeshPart")then 
                             if v.Material ==  Enum.Material.Neon then  
                                 topos(v.CFrame)
@@ -8557,14 +8559,14 @@ spawn(function()
                             topos(CFrame.new(5533.29785, 88.1079102, 4852.3916))
                         end
                     elseif World3 then
-                        if game:GetService("Workspace").Enemies:FindFirstChild("Giant IVininder") then
+                        if game:GetService("Workspace").Enemies:FindFirstChild("Giant Islander") then
                             if game:GetService("Players").LocalPlayer.PlayerGui.ScreenGui:FindFirstChild("ImageLabel") then
                                 repeat task.wait()
-                                    game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace").Enemies:FindFirstChild("Giant IVininder").HumanoidRootPart.CFrame * CFrame.new(3,0,0)
+                                    game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace").Enemies:FindFirstChild("Giant Islander").HumanoidRootPart.CFrame * CFrame.new(3,0,0)
                                 until _G.AutoObservation == false or not game:GetService("Players").LocalPlayer.PlayerGui.ScreenGui:FindFirstChild("ImageLabel")
                             else
                                 repeat task.wait()
-                                    game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace").Enemies:FindFirstChild("Giant IVininder").HumanoidRootPart.CFrame * CFrame.new(0,50,0)
+                                    game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = game:GetService("Workspace").Enemies:FindFirstChild("Giant Islander").HumanoidRootPart.CFrame * CFrame.new(0,50,0)
                                     wait(1)
                                     if not game:GetService("Players").LocalPlayer.PlayerGui.ScreenGui:FindFirstChild("ImageLabel") and _G.AutoObservation_Hop == true then
                                         game:GetService("TeleportService"):Teleport(game.PlaceId,game:GetService("Players").LocalPlayer)
@@ -10881,8 +10883,8 @@ spawn(function()
     pcall(function()
         while wait() do
             if _G.TweenMGear then
-				if game:GetService("Workspace").Map:FindFirstChild("MysticIVinind") then
-					for i,v in pairs(game:GetService("Workspace").Map.MysticIVinind:GetChildren()) do 
+				if game:GetService("Workspace").Map:FindFirstChild("MysticIsland") then
+					for i,v in pairs(game:GetService("Workspace").Map.MysticIsland:GetChildren()) do 
 						if v:IsA("MeshPart")then 
                             if v.Material ==  Enum.Material.Neon then  
                                 topos(v.CFrame)
@@ -10900,7 +10902,7 @@ MirrorFractal = CheckItem("Mirror Fractal")
 Valk = CheckItem("Valkyrie Helm")
 spawn(function()
 	while wait() do
-	if World3 and _G.AutoPullLever and not dagatcanmemay and IsMirageIVinind2() then
+	if World3 and _G.AutoPullLever and not dagatcanmemay and IsMirageIsland2() then
 	if CheckSea(3) then
 		if not MirrorFractal then
 			MirrorFractal = CheckItem("Mirror Fractal")
@@ -10918,7 +10920,7 @@ spawn(function()
 				game.ReplicatedStorage.Remotes.CommF_:InvokeServer("RaceV4Progress", "Continue")
 			elseif
 				not DaGatCan and not game.ReplicatedStorage.Remotes.CommF_:InvokeServer("CheckTempleDoor") and
-					IsMirageIVinind2()
+					IsMirageIsland2()
 			 then
 				if getBlueGear() then
 					pcall(
@@ -11065,7 +11067,7 @@ spawn(function()
                     end
                 elseif game:GetService("Players").LocalPlayer.Data.Race.Value == "Skypiea" then
                     for i,v in pairs(game:GetService("Workspace").Map.SkyTrial.Model:GetDescendants()) do
-                        if v.Name ==  "snowiVinind_Cylinder.081" then
+                        if v.Name ==  "snowisland_Cylinder.081" then
                             topos(v.CFrame* CFrame.new(0,0,0))
                         end
                     end
@@ -11266,11 +11268,11 @@ spawn(function()
     spawn(function()
         while wait() do
         if _G.Hopfinddao then
-            if game:GetService("Workspace").Map:FindFirstChild("MysticIVinind") or game:GetService("Workspace").Map:FindFirstChild("MysticIVinind") then
+            if game:GetService("Workspace").Map:FindFirstChild("MysticIsland") or game:GetService("Workspace").Map:FindFirstChild("MysticIsland") then
                 if HighestPointRealCFrame and (game.Players.LocalPlayer.Character.HumanoidRootPart.Position - HighestPointRealCFrame.Position).Magnitude > 10 then
                 topos(getHighestPoint().CFrame * CFrame.new(0, 211.88, 0))
                     end
-            elseif not game:GetService("Workspace").Map:FindFirstChild("MysticIVinind") or not game:GetService("Workspace").Map:FindFirstChild("MysticIVinind") then
+            elseif not game:GetService("Workspace").Map:FindFirstChild("MysticIsland") or not game:GetService("Workspace").Map:FindFirstChild("MysticIsland") then
                 Hop()
                 end
             end
